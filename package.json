@@ -137,9 +137,9 @@
     "vsce": "^1.81.1"
   },
   "dependencies": {
-    "@types/mocha": "8.2.0",
+    "@types/mocha": "8.2.2",
     "execa": "^5.0.0",
-    "mocha": "^8.3.0",
+    "mocha": "^8.3.2",
     "open": "^7.3.0",
     "ts-node": "^9.1.1"
   },
